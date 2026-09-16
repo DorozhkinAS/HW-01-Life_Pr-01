@@ -39,13 +39,20 @@
 
 Выполненное домашнее задание пришлите в виде ссылки на .md-файл в вашем репозитории.
 
-![1](https://github.com/Ivan-Shkutov/ci-01-intro/blob/main/1.png)
+<img width="1283" height="621" alt="1" src="https://github.com/user-attachments/assets/4c3b609d-4daa-4566-b224-5c5d55fb7654" />
 
-![2](https://github.com/Ivan-Shkutov/ci-01-intro/blob/main/2.png)
+<img width="1040" height="546" alt="1_1" src="https://github.com/user-attachments/assets/5628e15b-6a4b-4dca-ad3e-375ffaacea61" />
 
-![3](https://github.com/Ivan-Shkutov/ci-01-intro/blob/main/3.png)
+<img width="973" height="444" alt="2" src="https://github.com/user-attachments/assets/cb5b730a-aaee-4366-a051-75f40a2f125f" />
 
-![4](https://github.com/Ivan-Shkutov/ci-01-intro/blob/main/4.png)
+<img width="871" height="745" alt="3" src="https://github.com/user-attachments/assets/f2f202b0-160e-4cb0-9d92-7b3955558e09" />
+
+<img width="1099" height="766" alt="4" src="https://github.com/user-attachments/assets/7d79a100-77c4-4d0a-bf02-7aae4ffb5dca" />
+
+<img width="879" height="324" alt="5" src="https://github.com/user-attachments/assets/8ed1fc64-62af-4c2b-97ff-5c4efcb79aeb" />
+
+<img width="1347" height="651" alt="6" src="https://github.com/user-attachments/assets/4e00e914-6330-4171-ad1a-8aa62b2a3c9c" />
+
 
 ![5](https://github.com/Ivan-Shkutov/ci-01-intro/blob/main/5.png)
 
