@@ -54,4 +54,3 @@
 <img width="1347" height="651" alt="6" src="https://github.com/user-attachments/assets/4e00e914-6330-4171-ad1a-8aa62b2a3c9c" />
 
 
-![7](https://github.com/Ivan-Shkutov/ci-01-intro/blob/main/7.png)
